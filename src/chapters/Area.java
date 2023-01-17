@@ -9,6 +9,11 @@ public class Area {
         a = pi * r * r;
         System.out.println("ploshod kruga rovno " + a);
 
+        int m = 15;
+        char p;
+        p = (char) m;
+        System.out.println(p);
+
     }
 
 }
